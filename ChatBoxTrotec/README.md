@@ -1,6 +1,6 @@
 # System Analysis - Final Project
 
-The system analysis chatbox project focused on improving the sales experience of laser cutting and engraving machines from the Trotec Laser brand is stored in this repository. The project only includes a series of PDFs of the models most requested by customers (determined through systemic analysis)
+The system analysis chatbox project focused on improving the sales experience of laser cutting and engraving machines from the Trotec Laser brand is stored in this repository. The project only includes a series of PDFs of the models most requested by customers (determined through systemic analysis),the explanatory documents are located in the "slides" folder
 
 ## How to Use
 
